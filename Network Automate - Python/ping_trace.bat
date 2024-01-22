@@ -1,0 +1,1 @@
+C:\Users\arjaypana\AppData\Local\Programs\Python\Python311\python.exe "C:\Users\arjaypana\OneDrive - SK Innovate Group\RJP\Network Automate - Python\ping_trace.py"

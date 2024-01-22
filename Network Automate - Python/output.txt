@@ -1,0 +1,43 @@
+Host: 192.168.1.1
+Ping Output: 
+Pinging 192.168.1.1 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 192.168.1.1:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Traceroute Output: 
+
+Host: 180.232.152.99
+Ping Output: 
+Pinging 180.232.152.99 with 32 bytes of data:
+Reply from 180.232.152.99: bytes=32 time=2ms TTL=64
+Reply from 180.232.152.99: bytes=32 time=2ms TTL=64
+Reply from 180.232.152.99: bytes=32 time=2ms TTL=64
+Reply from 180.232.152.99: bytes=32 time=2ms TTL=64
+
+Ping statistics for 180.232.152.99:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 2ms, Average = 2ms
+
+Traceroute Output: 
+
+Host: 161.49.90.252
+Ping Output: 
+Pinging 161.49.90.252 with 32 bytes of data:
+Reply from 161.49.90.252: bytes=32 time=2ms TTL=64
+Reply from 161.49.90.252: bytes=32 time=2ms TTL=64
+Reply from 161.49.90.252: bytes=32 time=2ms TTL=64
+Reply from 161.49.90.252: bytes=32 time=2ms TTL=64
+
+Ping statistics for 161.49.90.252:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 2ms, Average = 2ms
+
+Traceroute Output: 
+
